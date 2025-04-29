@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hi there, I'm Muhammad Zeeshan
 
-<!--
-**zeeshanfreelancer/zeeshanfreelancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **MERN Stack Developer**  
+🚀 Turning ideas into digital realities  
+🎯 On a mission to craft **seamless user experiences** and build **creative solutions**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 I love working with:
+- **MongoDB | Express | React | Node.js**
+- Modern UI frameworks like **Tailwind CSS** and **Bootstrap**
+- Building full-stack applications with a user-first approach
+
+🧠 Always learning, always building  
+📍 Based in Faisalabad, Pakistan
+
+---
+
+📫 **Let's connect!**
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-zeeshan-56998a2b5/) *(replace with your actual link)*
+- 📧 zeeshanriphah@gmail.com *(replace with your real email)*
