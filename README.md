@@ -17,5 +17,6 @@
 ---
 
 📫 **Let's connect!**
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-zeeshan-56998a2b5/) *(replace with your actual link)*
-- 📧 zeeshanriphah@gmail.com *(replace with your real email)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-zeeshan-56998a2b5/) 
+- 📧 zeeshanriphah@gmail.com
+- 📞 +92 346 439 8285
