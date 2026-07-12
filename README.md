@@ -17,6 +17,6 @@
 ---
 
 📫 **Let's connect!**
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-zeeshan-56998a2b5/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/zeeshan-mern-developer/) 
 - 📧 zeeshanriphah@gmail.com
 - 📞 +92 346 439 8285
