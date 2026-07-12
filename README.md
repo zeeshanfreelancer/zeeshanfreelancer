@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Muhammad Zeeshan
 
-💻 **MERN Stack Developer**  
+💻 **FULL Stack Developer**  
 🚀 Turning ideas into digital realities  
 🎯 On a mission to craft **seamless user experiences** and build **creative solutions**
 
@@ -12,7 +12,7 @@
 - Building full-stack applications with a user-first approach
 
 🧠 Always learning, always building  
-📍 Based in Faisalabad, Pakistan
+📍 Based in Lahore, Pakistan
 
 ---
 
